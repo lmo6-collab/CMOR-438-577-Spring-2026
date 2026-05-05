@@ -38,7 +38,7 @@ This repository contains:
 ## Repository structure
 
 ```
-INDE577-Spring-2026/
+CMOR-438-577-Spring-2026/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
