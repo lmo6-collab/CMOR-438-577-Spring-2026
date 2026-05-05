@@ -85,7 +85,7 @@ This project uses a Python **virtual environment** for reproducibility — a pra
 
 ### Step 1 — Clone the repo
 ```bash
-git clone https://github.com/lmo6-collab/INDE577-Spring-2026.git
+git clone https://github.com/lmo6-collab/CMOR-438-577-Spring-2026.git
 cd INDE577-Spring-2026
 ```
 
