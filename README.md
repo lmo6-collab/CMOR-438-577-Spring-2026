@@ -1,6 +1,6 @@
 # CMOR 438 — Data Science & Machine Learning (Spring 2026)
 
-Lucas Osborn - lmo6
+Author: Lucas Osborn - lmo6@rice.edu
 
 Final project repository for **CMOR 438 / INDE 577 — Data Science and Machine Learning**, taught by **Dr. Randy R. Davila** at Rice University.
 
