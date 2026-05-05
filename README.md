@@ -1,4 +1,4 @@
-# INDE 577 — Data Science & Machine Learning (Spring 2026)
+# CMOR 438 — Data Science & Machine Learning (Spring 2026)
 
 Final project repository for **CMOR 438 / INDE 577 — Data Science and Machine Learning**, taught by **Dr. Randy R. Davila** at Rice University.
 
