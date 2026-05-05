@@ -44,25 +44,25 @@ INDE577-Spring-2026/
 ├── pytest.ini
 ├── .gitignore
 │
-├── mlpkg/                              # Custom ML package
+├── mlpkg/                             
 │   ├── __init__.py
-│   ├── metrics.py                      # MSE, R^2, accuracy
-│   ├── preprocessing.py                # StandardScaler, train_test_split
+│   ├── metrics.py                    
+│   ├── preprocessing.py                
 │   ├── supervised/
 │   │   ├── __init__.py
-│   │   ├── linear_regression.py        # OLS via normal equation
-│   │   ├── knn.py                      # k-NN classifier
-│   │   └── perceptron.py               # Rosenblatt's perceptron
-│   └── unsupervised/                   # (placeholder)
+│   │   ├── linear_regression.py        
+│   │   ├── knn.py                      
+│   │   └── perceptron.py               
+│   └── unsupervised/                   
 │
-├── tests/                              # 30+ pytest tests
+├── tests/                              
 │   ├── test_linear_regression.py
 │   ├── test_knn.py
 │   ├── test_perceptron.py
 │   ├── test_metrics.py
 │   └── test_preprocessing.py
 │
-├── notebooks/                          # 8 demonstration notebooks
+├── notebooks/                         
 │   ├── 01_linear_regression.ipynb
 │   ├── 02_logistic_regression.ipynb
 │   ├── 03_perceptron.ipynb
@@ -72,7 +72,7 @@ INDE577-Spring-2026/
 │   ├── 07_kmeans_and_pca.ipynb
 │   └── 08_mlpkg_demo.ipynb
 │
-└── data/                               # Downloaded automatically on first run
+└── data/                               
 ```
 
 ---
